@@ -1,6 +1,7 @@
 # 11/1/2026
 # sierra raby
-# bigfoot scrape for 2026 30DayMapChallenge day 1: points
+# scrape bigfoot sightings data, map, and output an animation for 2026 30DayMapChallenge day 1: points
+# all sightings data from the Bigfoot Field Researchers Organization (https://bfro.net/gdb/#usa) with geometries from US Census
 
 # setup ----------------------------------------------------------
 library(rvest)  
